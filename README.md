@@ -1,7 +1,9 @@
-# DADS5001_Final
+# DADS5001_2ndTerm_Final Project: Youtube Live Chat analytics 
 
-Youtube Analytics Final Project by
+Team Member
 1. Korawee P. 6420422007
 2. Sorawit S. 6420422020
 
-Link to Video Presentation
+**LINK FOR THE VIDEO PRESENTATINON
+* https://www.youtube.com/watch?v=kIKLfBEK4BU&feature=youtu.be
+
