@@ -1,5 +1,8 @@
 # DADS5001_2ndTerm_Final Project: Youtube Live Chat analytics 
 
+Project Description
+- Creating Dashboard to Compare Miss Grand and Miss Universe 
+
 Team Member
 1. Korawee P. 6420422007
 2. Sorawit S. 6420422020
